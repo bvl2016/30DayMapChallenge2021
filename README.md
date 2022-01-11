@@ -7,7 +7,7 @@ You can find more information related to the Code of conduct [here](https://gith
 
 This is [the official website](https://30daymapchallenge.com/) .
 
-This had been the first time joining this challenge :) 
+This had been my first time joining this challenge :) 
 
 Just enjoy the galleries!!!
 
@@ -19,7 +19,6 @@ A map with points.
 Proximities to pharmacies with the 6 districts in the capital city of Antananarivo, Madagascar.
 
 Data : [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright), drown by [QGIS](https://qgis.org). Tweet available [here](https://twitter.com/BaovolaMada/status/1455078226448031747).
-
 
 ![Day 1 - Points](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day1.jpg)
 
@@ -75,6 +74,67 @@ Data : [© GeoFabrik](https://www.geofabrik.de/data/download.html) & [© OpenStr
 ![Day 5 - Data challenge 1](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day5.jpg)
 
 ---------------------------
+
+## Day 6 | Red
+
+A map with red colour or a map about something red.
+
+Covid-19 Cases / Deaths in East African countries from 3 January 2020 to 4 November 2021 reported to © WHO!
+
+Data : [Open Africa, OCHA](https://data.humdata.org/). Tweet available [here](https://twitter.com/BaovolaMada/status/1456884798971068418).
+
+![Day 6 - Red](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day6.jpg)
+
+---------------------------
+
+## Day 7 | Green
+
+A map with green colour or a map about something green.
+
+Green space in Seoul.
+
+Data : [© GeoFabrik](https://www.geofabrik.de/data/download.html). Tweet available [here](https://twitter.com/BaovolaMada/status/1457237172474494977).
+
+![Day 7 - Green](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day7.jpg)
+
+---------------------------
+
+## Day 8 | Blue
+
+A map with blue colour or a map about something blue.
+
+AIS network in North of Europe.
+
+Data : © AISHub. Map made by using [Unfolded Studio](https://twitter.com/unfoldedinc). Tweet available [here](https://twitter.com/BaovolaMada/status/1457622519708635138).
+
+![Day 8 - Blue](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day8.png)
+
+---------------------------
+
+## Day 9 | Monochrome
+
+A monochromic image is composed of one color (or values of one color). So for example black and white maps are valid here.
+
+Voronoi diagrams built on crowdsourced air traffic data from the OpenSky Network 2019–2020.
+
+Data : © OpenSky Network 2019-2020. Tweet available [here](https://twitter.com/BaovolaMada/status/1458039995420315656).
+
+![Day 9 - Monochrome](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day9.jpg)
+
+---------------------------
+
+## Day 10 | Raster
+
+Nothing stops you from doing almost all of the maps with raster data. But this day is dedicated to those lovely pixels.
+
+Bathymetric map of Reunion.
+
+Data : [The GEBCO Grid](https://seabed2030.org/). Tweet available [here](https://twitter.com/BaovolaMada/status/1458508213868011522).
+
+![Day 10 - Raster](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day10.jpg)
+
+---------------------------
+
 
 
 
