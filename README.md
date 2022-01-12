@@ -135,6 +135,32 @@ Data : [The GEBCO Grid](https://seabed2030.org/). Tweet available [here](https:/
 
 ---------------------------
 
+## Day 11 | 3D
+
+The magnificent third dimension! Visualize something in 3D.
+
+Very low beginner with 3D, here can I share! Some buildings in DC.
+
+Data : © Open Data DC. Tweet available [here](https://twitter.com/BaovolaMada/status/1458758940192301058).
+
+![Day 11 - 3D](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day11.gif)
+
+---------------------------
+
+## Day 12 | Population
+
+That is you and me. Or maybe animal population from [Movebank.org](https://www.movebank.org/cms/movebank-main)? Anyhow a classic theme for thematic maps.
+
+Madagascar population density by Region.
+
+Data : [INSTAT RGPH2018](https://www.instat.mg/). Tweet available [here](https://twitter.com/BaovolaMada/status/1459051316475580427).
+
+![Day 12 - Population](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day12.jpg)
+
+
+---------------------------
+
+
 
 
 
