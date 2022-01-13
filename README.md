@@ -160,8 +160,100 @@ Data : [INSTAT RGPH2018](https://www.instat.mg/). Tweet available [here](https:/
 
 ---------------------------
 
+## Day 13 | Data challenge 2: Natural Earth
+
+Great public domain map dataset for cartography on global and national scales. You can use Natural Earth as a part of your map or as the main source. You can download the data from a few different locations, but probably the easiest access is via [GitHub](https://github.com/nvkelso/natural-earth-vector/tree/master/geojson).
+
+Disputed areas in Indian Ocean is mapped here according to the data from [Natural Earth homepage](https://www.naturalearthdata.com/).
+
+Tweet available [here](https://twitter.com/BaovolaMada/status/1459417749055324161).
+
+![Day 13 - Data challenge 2](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day13.jpg)
 
 
+---------------------------
+
+## Day 14 | Map with a new tool
+
+As the whole #30DayMapChallenge is much about learning and experimenting, this day is dedicated to exploring new tools. See the list on this repo below or find something interesting yourself!
+
+First time ever to mapping with [@Blender](https://twitter.com/Blender) , so I create this elevation map of #Reunion by combining [QGIS](https://qgis.org) and Blender! (Really need improvement and exploration of this new tool).
+
+Data : [The GEBCO Grid](https://seabed2030.org/). You can find the tweet [here](https://twitter.com/BaovolaMada/status/1459842550802624513).
+
+![Day 14 - Map with a new tool](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day14.jpg)
+
+---------------------------
+
+## Day 15 | Map made without using a computer
+
+I borrow this table cover not to break this challenge :)
+
+Tweet available [here](https://twitter.com/BaovolaMada/status/1460140017335078913).
+
+![Day 15 - Map made without computer](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day15.jpeg)
+
+
+---------------------------
+
+## Day 16 | Urban/rural
+
+Map an urban area or rural area. Or something that defines that place.
+
+
+Urban areas in Africa according to the Natural Earth data source. The map is coupled with heat map of populated areas!
+
+Data : [Statistic from FAO](https://www.fao.org/). Tweet available [here](https://twitter.com/BaovolaMada/status/1460565984499142656).
+
+![Day 16 - Urban/rural](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day16.jpg)
+
+---------------------------
+
+## Day 17 | Land
+
+Land, landcover, landuse... 
+
+This is a satellite timelapse of Morondava, a coastal place in the SouthWestern of #Madagascar. Thanks to [@giswqs](https://twitter.com/giswqs) for his interesting online [app](https://streamlit.gishub.org). Tweet available [here](https://twitter.com/BaovolaMada/status/1460866899449991168).
+
+![Day 17 - Land](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day17.gif)
+
+---------------------------
+
+## Day 18 | Water
+
+Oceans, lakes, rivers or something completely different.
+
+If inundation would take place in the lake near the Ivato International Airport? (Antananarivo, Madagascar). PS : the map was during hot and dry season!
+
+Data : [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright) & SRTM Tiles from NASA. Tweet available [here](https://twitter.com/BaovolaMada/status/1461319706711838722).
+
+![Day 18 - Water](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day18.jpg)
+
+---------------------------
+
+## Day 19 | Island(s)
+
+Islands in the water, islands of innovation or something completely different.
+
+This is The Comoros Islands in Indian Ocean!
+
+Data : SRTM Tiles from NASA. Tweet available [here](https://twitter.com/BaovolaMada/status/1461584016222654467).
+
+![Day 19 - Island(s)](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day19.jpg)
+
+---------------------------
+
+## Day 20 | Movement
+
+Visualizing movement can be done with a static map or with an animation.
+
+Fire per week in 2020 in Madagascar
+
+Data : [MODIS](https://modis.gsfc.nasa.gov/data/) with confidence >=80%. Tweet available [here](https://twitter.com/BaovolaMada/status/1462037748752297985).
+
+![Day 20 - Movement](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day20.gif)
+
+---------------------------
 
 
 
