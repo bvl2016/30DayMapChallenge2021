@@ -255,5 +255,105 @@ Data : [MODIS](https://modis.gsfc.nasa.gov/data/) with confidence >=80%. Tweet a
 
 ---------------------------
 
+## Day 21 | Elevation
 
+Sweet hillshades, beautiful contours, high mountains or low valleys. DEM, DSM or something else.
 
+Mt. Fuji, the highest mountain in Japan, standing 3,776.24 m (12,389.2 ft).
+
+Data : SRTM Tiles from NASA. Tweet available [here](https://twitter.com/BaovolaMada/status/1462396303158267910).
+
+![Day 21 - Elevation](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day21.jpg)
+
+---------------------------
+
+## Day 22 | Boundaries
+
+Boundaries are all around us. Some of them are visible and some of them are in our heads.
+
+This is the Timor plate. I've just made reference to Timor-Leste, the island country in the eastern Lesser Sunda Islands, at the southern extreme of the Malay Archipelago.
+
+Data : [Natural Earth homepage](https://www.naturalearthdata.com/) & [Plate data](https://github.com/fraxen/tectonicplates/blob/master/README.md). Tweet available [here](https://twitter.com/BaovolaMada/status/1462692387092893697).
+
+![Day 22 - Boundaries](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day22.jpg)
+
+---------------------------
+
+## Day 23 | Data challenge 3: GHSL Global Human Settlement Layer
+
+The third data challenge should be created using this great dataset by EC JRC on human population. 
+
+Built-up areas in Reunion.
+
+Data : [Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/). Tweet available [here](https://twitter.com/BaovolaMada/status/1463093492184489990).
+
+![Day 23 - Data challenge 3](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day23.jpg)
+
+---------------------------
+
+## Day 24 | Historical map
+
+Historical data, historical style or something else.
+
+No edition in here. This shows Madagascar map in 1537 by Gaspar VIEJAS.
+You can find more historical photos at the Geographic and Hydrographic Institute of Madagascar. Tweet available [here](https://twitter.com/BaovolaMada/status/1463497194116423691).
+
+![Day 24 - Historical map](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day24.png)
+
+---------------------------
+
+## Day 25 | Interactive map
+
+Realtime status of AIS stations via [@unfoldedinc](https://twitter.com/unfoldedinc). You can find my interactive map [here](https://studio.unfolded.ai/public/cbab7d5d-30fb-4be7-8559-ae46ec1175f3).
+
+---------------------------
+
+## Day 26 | Choropleth map
+A choropleth map is a type of thematic map in which a set of pre-defined areas is colored or patterned in proportion to a statistical variable that represents an aggregate summary of a geographic characteristic within each area, such as population density or per-capita income. (Source : [Wikipedia](https://en.wikipedia.org/wiki/Choropleth_map)).
+
+Marriage rate in the EU per 1.000 inhabitants in 2016.
+
+Data : [@EU_Eurostat](https://twitter.com/EU_Eurostat). Tweet available [here](https://twitter.com/BaovolaMada/status/1464146756552343552).
+
+![Day 26 - Choropleth map](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day26.jpg)
+
+---------------------------
+
+## Day 27 | Heatmap
+
+A heat map (or heatmap) is a data visualization technique that shows magnitude of a phenomenon as color in two dimensions. The variation in color may be by hue or intensity, giving obvious visual cues to the reader about how the phenomenon is clustered or varies over space. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Heat_map)).
+
+Post offices in Reunion from [Open data la Reunion](https://data.regionreunion.com/pages/accueil/). Tweet available [here](https://twitter.com/BaovolaMada/status/1464634501016043522).
+
+![Day 27 - Heatmap](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day27.jpg)
+
+---------------------------
+
+## Day 28 | The Earth is not flat
+
+The Earth isn’t flat (AFAIK), so how would you show that on a map? Maybe something creative with projections? 
+
+Just by using this [QGIS plugin](https://github.com/GispoCoding/GlobeBuilder). Tweet available [here](https://twitter.com/BaovolaMada/status/1465001670404943879).
+
+![Day 28 - The Earth is not flat](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day28.jpg)
+
+---------------------------
+
+## Day 29 | NULL
+
+I've checked there is no mountain to climb near Amsterdam, so I made this map for "mountain = NULL". Tweet available [here](https://twitter.com/BaovolaMada/status/1465218270341091331).
+
+![Day 29 - NULL](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day29.jpg)
+
+---------------------------
+
+## Day 30 | Metamapping day
+
+Final day! Spend the day either by 1) collecting your entries from the challenge to a common gallery, 2) writing a tutorial or a blog post on one of your maps or 3) create a map from a theme you have chosen yourself.
+
+Very delighted that I'd participate to this challenge!
+Fascinated by this city, I've just plotted some buildings and roads around Kigali, in Rwanda. Someday, I wish to visit this amazing place!!!
+
+![Day 30 - Metamapping day](https://github.com/bvl2016/30DayMapChallenge2021/blob/main/maps/day30.jpg)
+
+---------------------------
